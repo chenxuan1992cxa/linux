@@ -1,0 +1,8 @@
+在每个script的文件头处记录：
+1 script的功能
+2 script的版本信息
+3 script的作者与联络方式
+4 script的版本宣告方式
+5 script的History
+6 script内比较特殊的指令
+7 script运行是需要的环境变量
